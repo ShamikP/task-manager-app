@@ -1,7 +1,7 @@
-pytest==7.4.2
-python==3.12
+# pytest==7.4.2
 streamlit==1.18.0
 sqlite3
 pandas
+
 
 
