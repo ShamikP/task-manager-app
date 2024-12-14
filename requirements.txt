@@ -5,5 +5,3 @@ sqlite3
 pandas
 
 
-# Use this command to install all the dependencies 
-pip install -r requirements.txt
