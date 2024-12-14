@@ -1,0 +1,9 @@
+pytest==7.4.2
+python==3.12
+streamlit==1.18.0
+sqlite3
+pandas
+
+
+# Use this command to install all the dependencies 
+pip install -r requirements.txt
