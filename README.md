@@ -23,3 +23,8 @@ It is a simple web application for task management built using Python (Backend),
    ```bash
    git clone https://github.com/yourusername/task_manager.git
    cd task_manager
+
+## Contact 
+Developed by : Shamik Patel 
+Email : 21BT04087@gsfcuniversity.ac.in , smpatel2353@gmail.com
+Mobile : 6353817643
