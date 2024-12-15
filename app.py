@@ -66,3 +66,5 @@ elif menu_option == "Reports":
             filtered_tasks = filter_tasks_by_responsible_person(person_filter)
             for task in filtered_tasks:
                 st.write(f"ID: {task[0]}, Task: {task[1]}, Start: {task[2]}, Due: {task[3]}, Responsible: {task[4]}, Status: {task[5]}")
+st.text("")
+st.text("Web Application made by Shamik Patel.\n Contact \n Email : 21BT04087@gsfcuniversity.ac.in , smpatel2353@gmail.com \n Mobile : 6353817643")
